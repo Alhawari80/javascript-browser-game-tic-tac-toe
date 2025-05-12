@@ -14,7 +14,7 @@ body {
   .sqr {
     width: 30%;
     aspect-ratio: 1/1;
-    border: 3px solid black;
+    border: 3px solid blue;
     font-size: 64px;
     text-align: center;
   }
